@@ -1,0 +1,17 @@
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\bin\Release\远程控制.exe.config
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\bin\Release\远程控制.exe
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\bin\Release\远程控制.pdb
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\bin\Release\Interop.MSTSCLib.dll
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\Interop.MSTSCLib.dll
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\AxInterop.MSTSCLib.dll
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.csproj.ResolveComReference.cache
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.Form1.resources
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.Form2.resources
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.Form3.resources
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.Properties.Resources.resources
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.csproj.GenerateResource.cache
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.csproj.CoreCompileInputs.cache
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.exe
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.pdb
+C:\Users\idmin\Desktop\周腾远程\远程控制\远程控制\obj\Release\远程控制.csprojAssemblyReference.cache
